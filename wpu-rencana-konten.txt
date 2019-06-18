@@ -2,6 +2,8 @@ RENCANA KONTEN
 - Javascript
   ES6
   FRAMEWORK
-- Data Structure
+    ANGULAR
+     REACT
+- PHP 
 - Interview
 - vlog

@@ -1,9 +1,9 @@
 RENCANA KONTEN
 - Javascript
   ES6
-  FRAMEWORK
+  FRAMEWORRK
     ANGULAR
-     REACT
-- PHP 
+    REACT
 - Interview
 - vlog
+-Pyhton

@@ -2,6 +2,8 @@ RENCANA KONTEN
 - Javascript
   ES6
   FRAMEWORK
+    vue
 - Data Structure
 - Interview
 - vlog
+-Pyhton

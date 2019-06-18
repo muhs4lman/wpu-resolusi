@@ -1,10 +1,9 @@
 RENCANA KONTEN
 - Javascript
   ES6
-  FRAMEWORK
-    vue
-    apalah
-- Data Structure
+  FRAMEWORRK
+    ANGULAR
+    REACT
 - Interview
 - vlog
 -Pyhton
